@@ -4,18 +4,18 @@
       "id": 2,
       "text": "Interview",
       "day": "Aug 22nd at 4:21pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 3,
       "text": "Job Offer",
       "day": "Aug 22nd at 4:21pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "text": "test",
       "day": "test",
-      "reminder": true,
+      "reminder": false,
       "id": 5
     }
   ]
